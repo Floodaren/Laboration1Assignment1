@@ -10,6 +10,7 @@ import android.content.Intent;
 
 public class MainActivity extends AppCompatActivity {
     public static final String EXTRA_MESSAGE = "";
+    public static final String HEJSAN = "hej hej";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
